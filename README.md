@@ -2,7 +2,7 @@
 README-project-template
 
 
-# Prueba para Desarrollado FrontEnd - Nivelics
+# Nombre del Proyecto
 
 _Objetivo: Realizar la página web con sus estilos respectivos en React basándose en el diseño compartido en [Figma](https://www.figma.com/file/uZxPKPcmFh7or2ln9G6tS0/Prueba-t%C3%A9cnica-2021-Octubre?node-id=0%3A1)._
 
@@ -65,11 +65,11 @@ Tras su instalación se desplegará los siguientes archivos así:
 
 ## Contenido Multimedia
 
-Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, etc.) fueron tomados del archivo de Figma y los siguientes recursos gratuitos o libres:
+Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, etc.) fueron tomados de _(Indicar el documento de orígen de donde se tomó el diseño original)_ y los siguientes recursos gratuitos o libres _(Si se usaron recursos extra no contemplados en la fuente)_:
 
-- Bootstrap Icons (https://icons.getbootstrap.com/)
+- Nombre de página (Link con la página web donde se encuentran los recursos) (https://)
 
 
 ## Repositorio GitHub 
 
-https://github.com/GithubUser/link-repo
+https://github.com/Usuario-GitHub/link-repositorio
