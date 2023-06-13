@@ -14,10 +14,10 @@ _Presentada por: Nombre y apellidos de la persona que presenta la prueba_
 
 ## Herramientas utilizadas
 
-- HTML 5
-- CSS 3
-- React 17.0.2
-- Bootstrap 5.1.3
+- `HTML 5`
+- `CSS 3`
+- `React 0.0.0`
+- `Bootstrap 0.0.0`
 
 
 ## Requisitos
