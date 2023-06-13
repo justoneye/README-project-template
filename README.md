@@ -25,7 +25,7 @@ _Presentada por: Nombre y apellidos de la persona que presenta la prueba_
 * Diseño responsive.
 * Debe ver bien tanto en dispositivos de escritorio como en dispositivos móviles.
 
-_Funcionalidades Plus:_
+### Funcionalidades Plus:
 * Modal
 * Slider
 * Menú hamburguesa.
@@ -37,24 +37,23 @@ Tras su instalación se desplegará los siguientes archivos así:
 
 ```
 my-app/
-  README.md
-  node_modules/
-  components/
-    ...
-  multimedia/
-  package.json
-  public/
-    index.html
-    ...
-  pages/
-    ...
-  src/
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg
+├── components/
+├── multimedia/
+|   └── imágenes, íconos, logos, fotos, etc.
+├── public/
+|   └── index.html
+|       ...
+├── pages/
+|   ...
+├── src/
+|   └── App.css
+|   └── App.js 
+|   └── index.css  
+|   └── index.js
+|   └── logo.svg
+└── README.md
+└── node_modules/
+└── package.json   
 ```
 
 
