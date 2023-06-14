@@ -37,8 +37,8 @@ _Presentada por: Nombre y apellidos de la persona que presenta la prueba_
 Usa el gestor de paquetes [npm](https://www.npmjs.com/) para instalar el proyecto.
 
 ```
-$ git clone https://github.com/user_name/my-app/
-$ cd ../my-app/
+$ git clone https://github.com/user.name/repositorio
+$ cd ../repositorio/
 $ npm install
 $ npm start
 ```
@@ -49,7 +49,7 @@ $ npm start
 Tras su instalación se desplegará los siguientes archivos así:
 
 ```
-my-app/
+repositorio/
 ├── components/
 |       ... 
 ├── multimedia/
@@ -80,4 +80,4 @@ Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página 
 
 ## Repositorio GitHub 
 
-https://github.com/Usuario-GitHub/link-repositorio
+https://github.com/user.name/repositorio
