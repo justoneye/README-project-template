@@ -26,9 +26,22 @@ _Presentada por: Nombre y apellidos de la persona que presenta la prueba_
 * Debe ver bien tanto en dispositivos de escritorio como en dispositivos móviles.
 
 ### Funcionalidades Plus:
+
 * Modal
 * Slider
 * Menú hamburguesa.
+
+
+## Instalación
+
+Usa el gestor de paquetes [npm](https://www.npmjs.com/) para instalar el proyecto.
+
+```
+$ git clone https://github.com/user_name/my-app/
+$ cd ../my-app/
+$ npm install
+$ npm start
+```
 
 
 ## Estructura del Archivo
@@ -38,13 +51,12 @@ Tras su instalación se desplegará los siguientes archivos así:
 ```
 my-app/
 ├── components/
+|       ... 
 ├── multimedia/
 |   └── imágenes, íconos, logos, fotos, etc.
 ├── public/
 |   └── index.html
 |       ...
-├── pages/
-|   ...
 ├── src/
 |   └── App.css
 |   └── App.js 
@@ -52,14 +64,10 @@ my-app/
 |   └── index.js
 |   └── logo.svg
 └── node_modules/
-└── package.json
+|       ... 
 └── README.md
+└── package.json   
 ```
-
-
-## Instalación
-
-Tras su instalación se desplegará los siguientes archivos así:
 
 
 ## Contenido Multimedia
@@ -67,6 +75,7 @@ Tras su instalación se desplegará los siguientes archivos así:
 Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, etc.) fueron tomados de _(Indicar el documento de orígen de donde se tomó el diseño original)_ y los siguientes recursos gratuitos o libres _(Si se usaron recursos extra no contemplados en la fuente)_:
 
 - Nombre de página (Link con la página web donde se encuentran los recursos) (https://)
+- ...
 
 
 ## Repositorio GitHub 
