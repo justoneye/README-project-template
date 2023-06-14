@@ -51,9 +51,9 @@ my-app/
 |   └── index.css  
 |   └── index.js
 |   └── logo.svg
-└── README.md
 └── node_modules/
-└── package.json   
+└── package.json
+└── README.md
 ```
 
 
